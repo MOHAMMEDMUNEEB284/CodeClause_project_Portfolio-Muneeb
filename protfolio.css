@@ -1,0 +1,124 @@
+*{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+nav{
+    background-color:black;
+    height:65px;
+    width:100%;
+}
+label.logo{
+    color:white;
+    line-height:60px;
+    font-size:45px;
+    padding:0 80px;
+    font-weight:bolder;
+}
+nav ul{
+    float:right;
+    margin-right:50px;
+    font-family:sans-serif;
+}
+nav ul li{
+    display:inline-block;
+    line-height:60px;
+    margin:0 18px;
+}
+nav ul li a{
+    color:white;
+    text-decoration:none;
+    font-size:18px;
+}
+nav ul li a:hover{
+    background-color:skyblue;
+}
+#Home{
+    background-image:url(BG.jpg);
+    height:320px;
+    width:100%;
+    text-align:center;
+    padding-top:200px;
+}
+bm{
+    font-size:45px;
+}
+#About-Me{
+    background-color:grey;
+    height:400px;
+    width:100%;
+}
+h1{
+    font-size:45px;
+    text-align:center;
+}
+img{
+    height:300px;
+    width:200px;
+    float:left;
+    margin:0 120px;
+}
+p{
+    margin-top:80px;
+    font-size:25px;
+    font-family:monospace;
+}
+#Education{
+    background-color:skyblue;
+    height:1150px;
+    width:100%;
+}
+#eduall{
+    padding:50px 100px 50px 100px;
+    margin:50px 100px 50px 100px;
+    background-color:black;
+    height:840px;
+}
+h2{
+    color:white;
+    font-family:Cambria;
+}
+h2 ul li{
+    list-style-type:circle;
+}
+p5{
+    font-size:35px;
+    color:wite;
+}
+#Certificate{
+    background-color:lightseagreen;
+    height:540px;
+    width:100%;
+}
+#allcert{
+    padding:50px 100px 50px 100px;
+    margin:50px 100px 50px 100px;
+    background-color:tomato;
+    height:250px;
+}
+#Contact{
+    background-color: aquamarine;
+    text-align:center;
+    height:400px;
+    width:100%;
+}
+h3{
+    font-size:24px;
+}
+#con{
+    padding:20px 100px 50px 100px;
+    margin:20px 100px 50px 100px;
+    background-color:lightcoral;
+    height:200px;
+}
+footer{
+    background-color:black;
+    height:50px;
+    width:100%;
+    color:white;
+    text-align:center;
+}
+a{
+    text-decoration:none;
+    color:black;
+}
